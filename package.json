@@ -107,7 +107,7 @@
     "unist-util-visit": "4.1.2",
     "use-onclickoutside": "0.4.1",
     "uuid": "9.0.0",
-    "wagmi": "0.12.5"
+    "wagmi": "0.12.6"
   },
   "devDependencies": {
     "@next/bundle-analyzer": "13.2.4",
